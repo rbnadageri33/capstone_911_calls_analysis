@@ -1,7 +1,7 @@
 # capstone_911_calls_analysis
 # Data Analysis
 # EDA
-# visualization 
+# Visualization of data
 # Capstone Project
 # Its a small project for the beginner with eda and explonetory analysis
 
